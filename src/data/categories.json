@@ -1,0 +1,66 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Medicinal & Aromatic Herbs",
+    "slug": "medicinal-aromatic-herbs",
+    "description": "Premium grade medicinal and aromatic herbs sourced from certified organic farms worldwide.",
+    "image": "/images/categories/Herbs.png",
+    "productCount": 28
+  },
+  {
+    "id": "cat-2",
+    "name": "Essential Oils & Oleoresins",
+    "slug": "essential-oils-oleoresins",
+    "description": "Pure essential oils and concentrated oleoresins extracted through traditional steam distillation and cold pressing.",
+    "image": "/images/categories/all.jpeg",
+    "productCount": 22
+  },
+  {
+    "id": "cat-3",
+    "name": "Spices & Culinary Botanicals",
+    "slug": "spices-culinary-botanicals",
+    "description": "Premium spices and culinary botanicals sourced from the world's most renowned growing regions.",
+    "image": "/images/categories/Spices.png",
+    "productCount": 18
+  },
+  {
+    "id": "cat-4",
+    "name": "Herbal Extracts & Concentrates",
+    "slug": "herbal-extracts-concentrates",
+    "description": "Standardized herbal extracts and concentrates optimized for active compound content.",
+    "image": "/images/categories/Herbs.png",
+    "productCount": 25
+  },
+  {
+    "id": "cat-5",
+    "name": "Raw Botanicals & Crude Drugs",
+    "slug": "raw-botanicals-crude-drugs",
+    "description": "Unprocessed botanical raw materials and crude drugs in their natural form.",
+    "image": "/images/categories/Seeds.png",
+    "productCount": 35
+  },
+  {
+    "id": "cat-6",
+    "name": "Organic Herbal Teas & Blends",
+    "slug": "organic-herbal-teas",
+    "description": "Certified organic herbal teas, functional blends, and wellness infusions.",
+    "image": "/images/categories/Herbs.png",
+    "productCount": 14
+  },
+  {
+    "id": "cat-7",
+    "name": "Natural Food Colors & Ingredients",
+    "slug": "natural-food-colors",
+    "description": "Plant-based natural food colors, flavoring agents, and functional food ingredients.",
+    "image": "/images/categories/Spices.png",
+    "productCount": 16
+  },
+  {
+    "id": "cat-8",
+    "name": "Cosmetic & Personal Care Botanicals",
+    "slug": "cosmetic-personal-care",
+    "description": "Premium botanical ingredients for cosmetic and personal care formulations.",
+    "image": "/images/categories/Seeds.png",
+    "productCount": 20
+  }
+]

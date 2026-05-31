@@ -1,0 +1,74 @@
+[
+  {
+    "id": "team-1",
+    "name": "Dr. Elena Marchetti",
+    "role": "Chief Executive Officer",
+    "bio": "With over 28 years of experience in the botanical and phytopharmaceutical industry, Dr. Marchetti leads our company's strategic vision and global expansion.",
+    "image": "/images/team/team-1.jpg",
+    "social": { "linkedin": "https://linkedin.com/in/elena-marchetti" },
+    "order": 1
+  },
+  {
+    "id": "team-2",
+    "name": "James O. Kwame",
+    "role": "Chief Operations Officer",
+    "bio": "James brings 22 years of experience in global logistics, supply chain management, and international trade compliance.",
+    "image": "/images/team/team-2.jpg",
+    "social": { "linkedin": "https://linkedin.com/in/james-okonkwo" },
+    "order": 2
+  },
+  {
+    "id": "team-3",
+    "name": "Dr. Mei-Lin Zhou",
+    "role": "VP, Quality Assurance & Regulatory",
+    "bio": "Dr. Zhou is a leading expert in botanical quality control with a Ph.D. in Analytical Chemistry from Zhejiang University.",
+    "image": "/images/team/team-3.jpg",
+    "social": { "linkedin": "https://linkedin.com/in/mei-lin-zhou" },
+    "order": 3
+  },
+  {
+    "id": "team-4",
+    "name": "Rajesh Patel",
+    "role": "Global Director of Sales",
+    "bio": "Rajesh has 17 years of experience in B2B sales and international market development within the botanical ingredients sector.",
+    "image": "/images/team/team-4.jpg",
+    "social": { "linkedin": "https://linkedin.com/in/rajesh-patel" },
+    "order": 4
+  },
+  {
+    "id": "team-5",
+    "name": "Sarah van den Berg",
+    "role": "Chief Sustainability Officer",
+    "bio": "Sarah is a globally recognized advocate for sustainable agriculture and ethical supply chains.",
+    "image": "/images/team/team-1.jpg",
+    "social": { "linkedin": "https://linkedin.com/in/sarah-van-den-berg" },
+    "order": 5
+  },
+  {
+    "id": "team-6",
+    "name": "Dr. Ahmed Al-Hassan",
+    "role": "Head of Research & Innovation",
+    "bio": "Dr. Al-Hassan leads our product innovation team, specializing in phytochemistry and novel extraction technologies.",
+    "image": "/images/team/team-2.jpg",
+    "social": { "linkedin": "https://linkedin.com/in/ahmed-al-hassan" },
+    "order": 6
+  },
+  {
+    "id": "team-7",
+    "name": "Maria Fernanda Rojas",
+    "role": "Director, Latin American Operations",
+    "bio": "Maria Fernanda has 20 years of experience sourcing and exporting botanical ingredients from Latin America.",
+    "image": "/images/team/team-3.jpg",
+    "social": { "linkedin": "https://linkedin.com/in/maria-fernanda-rojas" },
+    "order": 7
+  },
+  {
+    "id": "team-8",
+    "name": "Dr. Hassan Mbaye",
+    "role": "Director, African & Middle Eastern Sourcing",
+    "bio": "Dr. Mbaye leads our sourcing operations across Africa and the Middle East for premium botanicals.",
+    "image": "/images/team/team-4.jpg",
+    "social": { "linkedin": "https://linkedin.com/in/hassan-mbaye" },
+    "order": 8
+  }
+]

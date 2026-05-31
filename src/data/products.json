@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "name": "Egyptian Chamomile",
+    "category": "Flowers",
+    "price": "Contact for pricing",
+    "description": "Premium grade whole and sifted chamomile flowers, harvested at peak potency with exceptional essential oil retention. Known for vibrant golden yellow color. Perfect for herbal teas, cosmetics, and pharmaceutical applications.",
+    "specifications": {
+      "moisture": "< 10%",
+      "purity": "99%",
+      "ashContent": "< 8%",
+      "essentialOil": "> 0.4 ml/100g",
+      "packaging": "20kg Multi-layer Paper Bags",
+      "shelfLife": "24 Months"
+    },
+    "image": "/product/Cinnamon.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Organic Peppermint Leaves",
+    "category": "Leaves",
+    "price": "Contact for pricing",
+    "description": "Premium organic peppermint leaves (Mentha piperita), shade-dried to preserve aroma and menthol content. Ideal for specialty teas, essential oil extraction, and culinary applications.",
+    "specifications": {
+      "moisture": "< 12%",
+      "purity": "99%",
+      "ashContent": "< 7.5%",
+      "essentialOil": "> 1.2 ml/100g",
+      "packaging": "15kg Carton boxes",
+      "shelfLife": "24 Months"
+    },
+    "image": "/product/Marjoram.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Red Hibiscus Flowers",
+    "category": "Flowers",
+    "price": "Contact for pricing",
+    "description": "Deep crimson whole calyces of Hibiscus sabdariffa. Intensely tart and vibrant, perfect for herbal beverages, food colorants, and traditional wellness preparations.",
+    "specifications": {
+      "moisture": "< 11%",
+      "purity": "99%",
+      "ashContent": "< 9%",
+      "essentialOil": "Trace amounts",
+      "packaging": "25kg Woven Polypropylene Bags",
+      "shelfLife": "36 Months"
+    },
+    "image": "/product/Nigella.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Spearmint Leaves",
+    "category": "Leaves",
+    "price": "Contact for pricing",
+    "description": "Carefully selected and sifted whole spearmint leaves with a milder, sweeter profile than peppermint. Excellent for herbal blends, confectionery, and beverages.",
+    "specifications": {
+      "moisture": "< 10%",
+      "purity": "98.5%",
+      "ashContent": "< 7%",
+      "essentialOil": "> 0.9 ml/100g",
+      "packaging": "15kg Carton boxes",
+      "shelfLife": "24 Months"
+    },
+    "image": "/product/Dill-tips.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Premium Fennel Seeds",
+    "category": "Seeds",
+    "price": "Contact for pricing",
+    "description": "Grade-A fennel seeds (Foeniculum vulgare) with distinctive anise aroma. Used in traditional medicine, culinary spice blends, and natural digestive preparations.",
+    "specifications": {
+      "moisture": "< 9%",
+      "purity": "99.5%",
+      "ashContent": "< 6%",
+      "essentialOil": "> 2.0 ml/100g",
+      "packaging": "25kg Paper Bags",
+      "shelfLife": "30 Months"
+    },
+    "image": "/product/Fennel.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Natural Licorice Root",
+    "category": "Roots",
+    "price": "Contact for pricing",
+    "description": "Pure dried licorice roots (Glycyrrhiza glabra) in premium quality sticks and slices. Widely used in traditional herbal medicine, confectionery, and pharmaceutical formulations.",
+    "specifications": {
+      "moisture": "< 12%",
+      "purity": "99%",
+      "ashContent": "< 5%",
+      "essentialOil": "N/A (Glycyrrhizin-based)",
+      "packaging": "50kg Jute Bags",
+      "shelfLife": "36 Months"
+    },
+    "image": "/product/Liquorice.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Dried Basil Leaves",
+    "category": "Leaves",
+    "price": "Contact for pricing",
+    "description": "Premium dried basil (Ocimum basilicum) with strong aromatic properties. Perfect for culinary use, herbal teas, and natural flavoring applications.",
+    "specifications": {
+      "moisture": "< 10%",
+      "purity": "98%",
+      "ashContent": "< 7%",
+      "essentialOil": "> 0.5 ml/100g",
+      "packaging": "10kg Carton boxes",
+      "shelfLife": "24 Months"
+    },
+    "image": "/product/BASIL.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Organic Lemon Balm",
+    "category": "Leaves",
+    "price": "Contact for pricing",
+    "description": "Fresh-dried lemon balm (Melissa officinalis) with bright citrus aroma. Ideal for herbal infusions, aromatherapy, and wellness beverages.",
+    "specifications": {
+      "moisture": "< 11%",
+      "purity": "99%",
+      "ashContent": "< 6%",
+      "essentialOil": "> 0.3 ml/100g",
+      "packaging": "12kg Carton boxes",
+      "shelfLife": "24 Months"
+    },
+    "image": "/product/Lemon-grass.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Sage Leaves",
+    "category": "Leaves",
+    "price": "Contact for pricing",
+    "description": "Premium dried sage (Salvia officinalis) with robust earthy aroma. Widely used in culinary preparations, herbal medicine, and natural preservative applications.",
+    "specifications": {
+      "moisture": "< 10%",
+      "purity": "98%",
+      "ashContent": "< 7%",
+      "essentialOil": "> 1.0 ml/100g",
+      "packaging": "10kg Carton boxes",
+      "shelfLife": "24 Months"
+    },
+    "image": "/product/Laurel.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Premium Coriander Seeds",
+    "category": "Seeds",
+    "price": "Contact for pricing",
+    "description": "Grade-A coriander seeds (Coriandrum sativum) with warm, citrusy aroma. Essential for culinary spice blends, herbal formulations, and essential oil production.",
+    "specifications": {
+      "moisture": "< 9%",
+      "purity": "99.5%",
+      "ashContent": "< 6%",
+      "essentialOil": "> 0.8 ml/100g",
+      "packaging": "25kg Paper Bags",
+      "shelfLife": "30 Months"
+    },
+    "image": "/product/Coriander.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Dried Marjoram Herb",
+    "category": "Leaves",
+    "price": "Contact for pricing",
+    "description": "Premium dried marjoram (Origanum majorana) with sweet, floral notes. Ideal for gourmet culinary applications, herbal tea blends, and natural wellness products.",
+    "specifications": {
+      "moisture": "< 10%",
+      "purity": "98%",
+      "ashContent": "< 8%",
+      "essentialOil": "> 0.7 ml/100g",
+      "packaging": "10kg Carton boxes",
+      "shelfLife": "24 Months"
+    },
+    "image": "/product/Caraway.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Dried Ginger Root",
+    "category": "Roots",
+    "price": "Contact for pricing",
+    "description": "Premium dried ginger (Zingiber officinale) with intense pungent aroma. Sourced from top-growing regions, perfect for culinary, medicinal, and functional beverage applications.",
+    "specifications": {
+      "moisture": "< 10%",
+      "purity": "99%",
+      "ashContent": "< 6%",
+      "essentialOil": "> 1.5 ml/100g",
+      "packaging": "25kg Paper Bags",
+      "shelfLife": "36 Months"
+    },
+    "image": "/product/Ginger.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Organic Calendula Flowers",
+    "category": "Flowers",
+    "price": "Contact for pricing",
+    "description": "Certified organic calendula (Calendula officinalis) whole flowers. Bright orange-gold petals prized in cosmetic formulations, herbal salves, and natural skincare products.",
+    "specifications": {
+      "moisture": "< 11%",
+      "purity": "99%",
+      "ashContent": "< 8%",
+      "essentialOil": "> 0.2 ml/100g",
+      "packaging": "15kg Carton boxes",
+      "shelfLife": "24 Months"
+    },
+    "image": ""
+  },
+  {
+    "id": "14",
+    "name": "Dried Rosemary Leaves",
+    "category": "Leaves",
+    "price": "Contact for pricing",
+    "description": "Premium dried rosemary (Salvia rosmarinus) with strong pine-like aroma. Essential for culinary seasoning, natural preservative systems, and herbal wellness products.",
+    "specifications": {
+      "moisture": "< 10%",
+      "purity": "98%",
+      "ashContent": "< 7%",
+      "essentialOil": "> 1.2 ml/100g",
+      "packaging": "10kg Carton boxes",
+      "shelfLife": "24 Months"
+    },
+    "image": ""
+  },
+  {
+    "id": "15",
+    "name": "Natural Chamomile Tea Bags",
+    "category": "Flowers",
+    "price": "Contact for pricing",
+    "description": "Premium chamomile flower tea bags made from whole, unbroken flower heads. Individually wrapped for freshness. Perfect for retail, hospitality, and wellness brands.",
+    "specifications": {
+      "moisture": "< 10%",
+      "purity": "99%",
+      "ashContent": "< 8%",
+      "essentialOil": "> 0.3 ml/100g",
+      "packaging": "100 tea bags per box / bulk options available",
+      "shelfLife": "24 Months"
+    },
+    "image": ""
+  }
+]

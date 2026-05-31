@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ind-1",
+    "name": "Pharmaceutical",
+    "slug": "pharmaceutical",
+    "description": "Serving global pharmaceutical manufacturers with premium botanical raw materials and standardized extracts complying with USP, EP, and JP pharmacopoeia standards.",
+    "applications": ["Herbal medicinal products", "Standardized botanical extracts", "Natural API manufacturing", "Clinical trial materials", "Traditional medicine formulations"],
+    "productCount": 28
+  },
+  {
+    "id": "ind-2",
+    "name": "Nutraceutical",
+    "slug": "nutraceutical",
+    "description": "Providing high-potency botanical ingredients for dietary supplements, functional foods, and wellness products with certified purity and bioavailability.",
+    "applications": ["Dietary supplements", "Functional foods", "Wellness beverages", "Sports nutrition", "Weight management products"],
+    "productCount": 35
+  },
+  {
+    "id": "ind-3",
+    "name": "Aromatherapy",
+    "slug": "aromatherapy",
+    "description": "Supplying pure essential oils, absolutes, and carrier oils to the global aromatherapy and natural perfumery industry.",
+    "applications": ["Clinical aromatherapy", "Massage therapy", "Natural perfumery", "Spa & wellness", "Holistic health"],
+    "productCount": 18
+  },
+  {
+    "id": "ind-4",
+    "name": "Food & Beverage",
+    "slug": "food-beverage",
+    "description": "Delivering natural flavors, functional ingredients, and botanical extracts to the food and beverage industry for clean-label innovation.",
+    "applications": ["Natural flavors", "Functional beverages", "Clean-label ingredients", "Culinary spices", "Natural preservatives"],
+    "productCount": 22
+  },
+  {
+    "id": "ind-5",
+    "name": "Cosmetics & Personal Care",
+    "slug": "cosmetics",
+    "description": "Offering premium botanical oils, butters, extracts, and active compounds for natural and organic cosmetic formulations.",
+    "applications": ["Skincare formulations", "Hair care products", "Natural cosmetics", "Anti-aging compounds", "Sun care formulations"],
+    "productCount": 25
+  },
+  {
+    "id": "ind-6",
+    "name": "Veterinary & Animal Health",
+    "slug": "veterinary",
+    "description": "Providing botanical ingredients for veterinary medicine, animal feed additives, and natural pet care products.",
+    "applications": ["Veterinary supplements", "Animal feed additives", "Natural pet care", "Livestock health", "Aquaculture formulations"],
+    "productCount": 12
+  }
+]

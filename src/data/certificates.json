@@ -1,0 +1,82 @@
+[
+  {
+    "id": "cert-1",
+    "title": "USDA Organic Certification",
+    "issuer": "USDA National Organic Program",
+    "description": "Our entire product line is certified organic by the USDA National Organic Program under the supervision of an accredited certifying agent.",
+    "badge": "USDA ORGANIC",
+    "image": "/images/certificates/cert1.png",
+    "issuedDate": "2024-01-15",
+    "expiryDate": "2027-01-15"
+  },
+  {
+    "id": "cert-2",
+    "title": "EU Organic Certification",
+    "issuer": "European Commission — DG Agriculture",
+    "description": "We maintain full EU Organic certification under Regulation (EU) 2018/848, allowing our products to be marketed as organic throughout the European Union.",
+    "badge": "EU ORGANIC",
+    "image": "/images/certificates/cert2.png",
+    "issuedDate": "2024-03-01",
+    "expiryDate": "2027-03-01"
+  },
+  {
+    "id": "cert-3",
+    "title": "Good Manufacturing Practices (GMP)",
+    "issuer": "NSF International / SGS",
+    "description": "Our processing and warehousing facilities operate under current Good Manufacturing Practices (cGMP) certification in accordance with 21 CFR Part 111.",
+    "badge": "GMP",
+    "image": "/images/certificates/cert3.png",
+    "issuedDate": "2024-02-20",
+    "expiryDate": "2027-02-20"
+  },
+  {
+    "id": "cert-4",
+    "title": "Fair Trade Certified",
+    "issuer": "Fair Trade International (FLO)",
+    "description": "Our Fair Trade certification ensures that farmers receive fair prices, fair wages, and work under safe conditions.",
+    "badge": "FAIR TRADE",
+    "image": "/images/certificates/cert4.jpeg",
+    "issuedDate": "2024-04-10",
+    "expiryDate": null
+  },
+  {
+    "id": "cert-5",
+    "title": "ISO 22000:2018 Food Safety Management",
+    "issuer": "Bureau Veritas Certification",
+    "description": "Our facilities are certified to ISO 22000:2018, the international standard for food safety management systems.",
+    "badge": "ISO 22000",
+    "image": "/images/certificates/cert5.png",
+    "issuedDate": "2024-05-15",
+    "expiryDate": "2027-05-15"
+  },
+  {
+    "id": "cert-6",
+    "title": "Non-GMO Project Verified",
+    "issuer": "Non-GMO Project",
+    "description": "Our products are verified by the Non-GMO Project, North America's most rigorous third-party verification program for GMO avoidance.",
+    "badge": "NON-GMO",
+    "image": "/images/certificates/cert6.png",
+    "issuedDate": "2024-06-01",
+    "expiryDate": "2027-06-01"
+  },
+  {
+    "id": "cert-7",
+    "title": "Kosher Certification",
+    "issuer": "Orthodox Union (OU)",
+    "description": "Our processing facilities and select product lines hold Orthodox Union (OU) Kosher certification.",
+    "badge": "OU KOSHER",
+    "image": "/images/certificates/cert1.png",
+    "issuedDate": "2024-07-01",
+    "expiryDate": "2027-07-01"
+  },
+  {
+    "id": "cert-8",
+    "title": "FSSC 22000 Food Safety System",
+    "issuer": "DNV GL",
+    "description": "We maintain FSSC 22000 certification, a GFSI benchmarked food safety scheme recognized by major global food retailers.",
+    "badge": "FSSC 22000",
+    "image": "/images/certificates/cert2.png",
+    "issuedDate": "2024-08-01",
+    "expiryDate": "2027-08-01"
+  }
+]
