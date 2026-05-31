@@ -6,6 +6,7 @@ type TextVariant = "body" | "body-lg" | "body-sm" | "caption" | "label" | "muted
 interface TextProps extends HTMLAttributes<HTMLParagraphElement> {
   variant?: TextVariant;
   as?: "p" | "span" | "div";
+  align?: "left" | "center" | "right";
 }
 
 const variantStyles: Record<TextVariant, string> = {
@@ -17,16 +18,23 @@ const variantStyles: Record<TextVariant, string> = {
   "muted": "text-base leading-relaxed text-[#434843]",
 };
 
+const alignStyles: Record<NonNullable<TextProps["align"]>, string> = {
+  left: "text-left",
+  center: "text-center",
+  right: "text-right",
+};
+
 export function Text({
   className,
   variant = "body",
   as: Component = "p",
+  align,
   children,
   ...props
 }: TextProps) {
   return (
     <Component
-      className={cn(variantStyles[variant], className)}
+      className={cn(variantStyles[variant], align && alignStyles[align], className)}
       style={{ color: "var(--color-text-primary)" }}
       {...props}
     >

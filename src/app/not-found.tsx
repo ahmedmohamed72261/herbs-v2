@@ -25,7 +25,7 @@ export default function NotFound() {
           <Heading variant="h1" align="center">
             {t("notFound.title")}
           </Heading>
-          <Text variant="body-lg" align="center" className="mt-4" style={{ color: "var(--color-text-secondary)" }}>
+          <Text variant="body-lg" className="mt-4 text-center" style={{ color: "var(--color-text-secondary)" }}>
             {t("notFound.subtitle")}
           </Text>
           <div className="mt-10">
