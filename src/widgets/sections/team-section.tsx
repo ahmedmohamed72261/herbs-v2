@@ -76,7 +76,7 @@ export function TeamSection() {
             href="/team"
             className="inline-flex items-center gap-2 text-sm font-medium text-[var(--color-primary)] hover:text-[var(--color-primary-light)] transition-colors"
           >
-            {t("home.viewAllTeam")}
+            {t("home.meetTeam")}
             <ArrowRight className={`h-4 w-4 ${lang === "ar" ? "rotate-180" : ""}`} />
           </Link>
         </motion.div>
